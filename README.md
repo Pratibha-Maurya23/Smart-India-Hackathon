@@ -20,8 +20,8 @@ Our platform offers online training through webinars and tutorials, teaching eff
 Using scientific analysis, we recommend targeted, eco-friendly pest control solutions, tailored to crop needs and environmental conditions.
 <br>
 <h4>Technical Approach</h4>
-HTML
-CSS
+HTML.
+CSS.
 Java Script
 React
 Java
