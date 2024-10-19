@@ -20,16 +20,16 @@ Our platform offers online training through webinars and tutorials, teaching eff
 Using scientific analysis, we recommend targeted, eco-friendly pest control solutions, tailored to crop needs and environmental conditions.
 <br>
 <h4>Technical Approach</h4>
-HTML.
-CSS.
-Java Script
-React
-Java
-MySQL
-django
-Node JS
-Express JS
-Open Weather
+<p>HTML,</p> 
+CSS,
+Java Script,
+React,
+Java,
+MySQL,
+django,
+Node JS,
+Express JS,
+Open Weather,
 
 
 
