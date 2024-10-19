@@ -21,15 +21,15 @@ Using scientific analysis, we recommend targeted, eco-friendly pest control solu
 <br>
 <h4>Technical Approach</h4>
 <p>HTML,</p> 
-CSS,
-Java Script,
-React,
-Java,
-MySQL,
-django,
-Node JS,
-Express JS,
-Open Weather,
+<p>CSS,</p>
+<p>Java Script,</p>
+<p>React,</p>
+<p>Java,</p>
+<p>MySQL,</p>
+<p>django,</p>
+<p>Node JS,</p>
+<p>Express JS,</p>
+<p>Open Weather</p>
 
 
 
