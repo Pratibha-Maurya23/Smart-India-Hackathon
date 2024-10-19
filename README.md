@@ -1,6 +1,10 @@
 # Smart-India-Hackathon.
+Projects : SIH1639
+<h3>Team: SixByte Bridage</h3>
+<h4>Team Leader</h4>
+<h5>Team Member:</h5>
+1.Pratibha Maurya
 <br>
-projects : SIH1639
 <h3>Description :</h3>
 <h5>Dynamic Profile Creation:</h5>
 Our system dynamically creates farmer profiles, capturing real-time data to offer tailored solutions based on land, crop type, and agricultural practices.
@@ -15,8 +19,19 @@ Our platform offers online training through webinars and tutorials, teaching eff
 <h5>Targeted Pest Control:</h5>
 Using scientific analysis, we recommend targeted, eco-friendly pest control solutions, tailored to crop needs and environmental conditions.
 <br>
-<h3>Team: SixByte Bridage</h3>
-<h4>Team Leader</h4>
-<h5>Team Member:</h5>
-1.Pratibha Maurya
+<h4>Technical Approach</h4>
+HTML
+CSS
+Java Script
+React
+Java
+MySQL
+django
+Node JS
+Express JS
+Open Weather
+
+
+
+
 
